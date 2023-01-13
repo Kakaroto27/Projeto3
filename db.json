@@ -1,0 +1,106 @@
+{
+"carnes": [
+    {
+      "id": 1,
+      "peça": "Picanha",
+      "descrição": "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco.",
+      "corte": "É retirada da parte superior da alcatra.",
+      "preço": "R$:199,99"
+    },
+    {
+      "id": 2,
+      "peça": "Bife Ancho",
+      "descrição": "O Bife Ancho é um corte nobre de origem portenha.",
+      "corte": "Retirado da parte dianteira do contrafilé.",
+      "preço": "R$:190,99"
+    },
+    {
+      "id": 3,
+      "peça": "Costela 6 Sabores",
+      "descrição": "a Costela 6 Sabores é assada lentamente, com as ripas de ossos e muita gordura.",
+      "corte": "Corte típico da região Sul do Brasil.",
+      "preço": "R$:180,99"
+    },
+    {
+      "id": 4,
+      "peça": "Chorizo",
+      "descrição": "Faz parte do contrafilé, como o Bife Ancho, mas localizado ao centro da peça.",
+      "corte": " É um corte nobre tradicional da Argentina.",
+      "preço": "R$:110,99"
+    },
+    {
+      "id": 5,
+      "peça": "Shoulder Steak",
+      "descrição": "É uma das mais macias, mesmo quando bem passada.",
+      "corte": " O Shouder Steak é extraído do dianteiro do boi.",
+      "preço": "R$:95,99"
+    }
+],
+"acompanhamentos": [
+    {
+      "id": 1,
+      "Opção": "Arroz Piamontese"
+    },
+    {
+      "id": 2,
+      "Opção": "Farofa de cria"
+    },
+    {
+      "id": 3,
+      "Opção": "Queijo coalho"
+    },
+    {
+      "id": 4,
+      "Opção": "Vinagrete"
+    },
+    {
+      "id": 5,
+      "Opção": "Maionese de Legumes"
+    }
+],
+"bebidas": [
+    {
+      "id": 1,
+      "bebida": "Refrigerante"
+    },
+    {
+      "id": 2,
+      "bebida": "Cervejas"
+    },
+    {
+      "id": 3,
+      "bebida": "Sucos"
+    },
+    {
+      "id": 4,
+      "bebida": "Destilados"
+    },
+    {
+      "id": 5,
+      "bebida": "Vinhos"
+    }
+
+  ],
+  "sobremesas": [
+      {
+        "id": 1,
+        "sobremesa": "Romeu e Julieta"
+      },
+      {
+        "id": 2,
+        "sobremesa": "Brownie"
+      },
+      {
+        "id": 3,
+        "sobremesa": "Petit Gateau"
+      },
+      {
+        "id": 4,
+        "sobremesa": "Sorvete"
+      },
+      {
+        "id": 5,
+        "sobremesa": "Semifreddo"
+      }
+  ]
+}
